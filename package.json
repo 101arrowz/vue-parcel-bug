@@ -1,0 +1,14 @@
+{
+  "name": "vue-template",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.0-rc.4",
+    "parcel": "^2.0.0-nightly.349",
+    "vue": "3.0.0-rc.4"
+  }
+}
